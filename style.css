@@ -1,0 +1,64 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-size: 40px;
+}
+.col-md-6{
+    width: 400px;
+    font-size: 40px;
+    color: whitesmoke;
+    background-color: black;
+    position: relative;
+    display: inline;
+}
+.one{
+    text-align: center;
+     background-image: url(./image/backgroun\ 1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 1000px;
+    opacity: 0.70;
+    color: whitesmoke;
+    background-color: black;
+    padding: 10px 20px;
+    
+}
+.two{ 
+    text-align: center;
+     background-image: url(./image/background2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 1000px;
+    opacity: 0.70;
+    color: blanchedalmond;
+    
+
+    
+
+} 
+ .three{ 
+    text-align: center;
+     background-image: url(./image/backgroun\ 3.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 1000px;
+    opacity: 0.70;
+    
+    
+} 
+.four{
+    text-align: center;
+     background-image: url(./image/backgroun\ 1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 1000px;
+    opacity: 0.70;
+    color: blanchedalmond;
+    
+}
+h2{
+    color: red;
+    position: relative;
+    top: 50%;
+}
